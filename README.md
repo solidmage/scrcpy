@@ -135,6 +135,7 @@ work][donate]:
 
     Copyright (C) 2018 Genymobile
     Copyright (C) 2018-2023 Romain Vimont
+    Copyright (C) 2024 Solidmage
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
